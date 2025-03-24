@@ -1,0 +1,8 @@
+sources:
+  - name: ods__store
+    schema: ods__store
+    tables:
+      - name: orders
+      - name: order_lines
+      - name: products
+      - name: warehouses
